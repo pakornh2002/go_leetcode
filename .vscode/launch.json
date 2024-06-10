@@ -1,3 +1,4 @@
+//Config for run and debug main.go with problems/.
 {
     "version": "0.2.0",
     "configurations": [
